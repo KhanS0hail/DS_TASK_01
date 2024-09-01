@@ -15,7 +15,6 @@ The dataset used for this task is <a href="https://github.com/KhanS0hail/PRODIGY
 - Matplotlip & Seaborn for visualization
 
 
-
 ## Exploratory Data Analysis (EDA)
 
 During the EDA process, I performed the following steps:
