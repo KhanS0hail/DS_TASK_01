@@ -41,4 +41,4 @@ For any inquiries or feedback regarding this project, please contact:
 
 - <a href="https://www.linkedin.com/in/khan-sohail-386b2027a ">Khan Sohail (Linkedin)</a>
 
-- Gmail: ks646397@gmail.com- Gmail: ks646397@gmail.com
+- Gmail: ks646397@gmail.com
