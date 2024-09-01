@@ -36,5 +36,5 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a href="www.linkedin.com/in/khan-sohail-386b2027a">Khan Sohail (LinkedIn)</a>
+-<a href="www.linkedin.com/in/khan-sohail-386b2027a">Tufan Kundu (LinkedIn)</a>
 - Gmail: ks646397@gmail.com
