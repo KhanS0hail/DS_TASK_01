@@ -36,6 +36,6 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a href="https://www.linkedin.com/in/khan-sohail-386b2027a ">Khan Sohail (Linkedin)</a>>
+- <a href="https://www.linkedin.com/in/khan-sohail-386b2027a ">Khan Sohail (Linkedin)</a>
 
 - Gmail: ks646397@gmail.com
