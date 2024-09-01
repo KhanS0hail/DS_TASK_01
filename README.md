@@ -6,7 +6,11 @@ Welcome to my submission for Task 1 of the Data Science Internship at `Prodigy I
 
 ## Dataset
 
+<<<<<<< HEAD
 The dataset used for this task is <a href="https://github.com/KhanS0hail/PRODIGY_DS_01/blob/main/WorldPopulation.csv">world_population_dataset</a>. This dataset contains records of population from the year 2001 to 2022. 
+=======
+The dataset used for this task is <a href="https://github.com/KhanS0hail/PRODIGY_DS_01/blob/main/WorldPopulation.csv">world_population_dataset</a>. This dataset contains records of populations from the year 2001 to 2022. 
+>>>>>>> a8d183b5c030af04f2604f82a804146f0af93325
 
 ## Tools and Libraries used
 - Jupyter notebook
@@ -37,4 +41,4 @@ For any inquiries or feedback regarding this project, please contact:
 
 - <a href="https://www.linkedin.com/in/khan-sohail-386b2027a ">Khan Sohail (Linkedin)</a>
 
-- Gmail: ks646397@gmail.com
+- Gmail: ks646397@gmail.com- Gmail: ks646397@gmail.com
