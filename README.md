@@ -9,15 +9,15 @@ This submission fulfills the requirements of Task 1, which was to create a visua
 
 ### Methodology:
 
-**Data Acquisition:** Obtained population data from the World Bank.
-**Data Cleaning:** Prepared the data by handling missing values and ensuring data integrity.
-**Data Analysis:** Conducted exploratory data analysis and created visualizations using Python libraries (Pandas, Matplotlib,Seaborn).
-**Comparative Analysis:** Compared population trends across different countries and time periods.
+- **Data Acquisition:** Obtained population data from the World Bank.
+- **Data Cleaning:** Prepared the data by handling missing values and ensuring data integrity.
+- **Data Analysis:** Conducted exploratory data analysis and created visualizations using Python libraries (Pandas, Matplotlib,Seaborn).
+- **Comparative Analysis:** Compared population trends across different countries and time periods.
 
 ### Visualizations:
 
-**Bar Charts:** Used to represent population distributions and comparisons.
-**Stacked Bar** Charts: Employed to visualize the breakdown of total population into male and female components.
+- **Bar Charts:** Used to represent population distributions and comparisons.
+- **Stacked Bar** Charts: Employed to visualize the breakdown of total population into male and female components.
 Conclusion:
 
 ### Tools and Libraries:
