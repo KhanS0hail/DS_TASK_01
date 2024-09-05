@@ -1,43 +1,37 @@
-# Prodigy InfoTech Data Science Internship Task 1:
-<br>
-<img src="https://github.com/KhanS0hail/PRODIGY_DS_01/blob/main/TASK-01.png"   >
+# Prodigy InfoTech Data Science Internship Task 1
 
-Welcome to my submission for Task 1 of the Data Science Internship at `Prodigy Infotech`. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution of a categorical or continuous variable.
+Create a bar chart or histrogram to visualize the distribution of a categorical variable , such as the distribution of ages or genders in a population.
 
-## Dataset
+### Task Completed
 
-The dataset used for this task is <a href="https://github.com/KhanS0hail/PRODIGY_DS_01/blob/main/WorldPopulation.csv">world_population_dataset</a>. This dataset contains records of population from the year 2001 to 2022. 
-
-The dataset used for this task is <a href="https://github.com/KhanS0hail/PRODIGY_DS_01/blob/main/WorldPopulation.csv">world_population_dataset</a>. This dataset contains records of populations from the year 2001 to 2022. 
+This submission fulfills the requirements of Task 1, which was to create a visualization representing the distribution of a categorical or continuous variable. In this case, we analyzed the distribution of total population and male and female populations for the top and bottom ten countries worldwide.
 
 
-## Tools and Libraries used
-- Jupyter notebook
-- Pandas
-- Numpy
-- Matplotlip & Seaborn for visualization
+### Methodology:
 
+Data Acquisition: Obtained population data from the World Bank.
+Data Cleaning: Prepared the data by handling missing values and ensuring data integrity.
+Data Analysis: Conducted exploratory data analysis and created visualizations using Python libraries (Pandas, Matplotlib,Seaborn).
+Comparative Analysis: Compared population trends across different countries and time periods.
 
-## Exploratory Data Analysis (EDA)
+### Visualizations:
 
-During the EDA process, I performed the following steps:
+Bar Charts: Used to represent population distributions and comparisons.
+Stacked Bar Charts: Employed to visualize the breakdown of total population into male and female components.
+Conclusion:
 
-1. **Data Cleaning**: Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly.
+### Tools and Libraries:
 
-2. **Visualization**: Created a bar chart, stacked chart to visualize the distribution of a categorical or continuous variable. 
+Python
+Pandas
+Matplotlib
+Seaborn
 
+### Dataset Source:
 
+The data used for this analysis can be found at : <a href="https://data.worldbank.org/indicator/sp.pop.totl">World Bank</a>.
 
-## Conclusion
-
-In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
-
-Thank you for reviewing my submission!
-
-## 📬 Contact
-
-For any inquiries or feedback regarding this project, please contact:
+### Contact
 
 - <a href="https://www.linkedin.com/in/khan-sohail-386b2027a ">Khan Sohail (Linkedin)</a>
-
 - Gmail: ks646397@gmail.com
