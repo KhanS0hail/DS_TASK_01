@@ -18,7 +18,6 @@ This submission fulfills the requirements of Task 1, which was to create a visua
 
 - **Bar Charts:** Used to represent population distributions and comparisons.
 - **Stacked Bar** Charts: Employed to visualize the breakdown of total population into male and female components.
-Conclusion:
 
 ### Tools and Libraries:
 
